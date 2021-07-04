@@ -1,0 +1,35 @@
+body{
+    font-family: 'Bona Nova', serif;
+}
+h1{
+    font-size: 60px;
+}
+.blog{
+    color: rgb(243, 9, 9);
+}
+section{
+    display: flex;
+    display: flex 100px;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width:80% ;
+    border-color: rgb(255, 212, 159);
+
+}
+
+    .link button{ text-decoration: none;
+    background-image: ;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.dream-big{
+    background-image: url(images/RYB.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
